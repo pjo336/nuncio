@@ -1,2 +1,6 @@
 nuncio
 nuncio.sh
+
+
+# Mac files
+*.DS_Store
